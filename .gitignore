@@ -1,2 +1,7 @@
 # Adding config.py file.
 api_keys.py
+
+# ignore folders
+/__pycache__
+/.idea
+/.vscode
